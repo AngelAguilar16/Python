@@ -11,5 +11,5 @@ Desarrolado por: [Ángel Aguilar](https://twitter.com/devangelaguilar)
 
 
 <p align="center">
-    <img src="logo.png">
+    <img src="Logo_AA.png" width="100px">
 </p>

@@ -45,3 +45,4 @@ def merge_sort(input_list):
         left, right = split(input_list)
         # The following line is the most important piece in this whole thing
         return merge_sorted_lists(merge_sort(left), merge_sort(right))
+

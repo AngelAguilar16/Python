@@ -6,7 +6,6 @@ def merge(v):
         Derecha = v[mitad:]
         merge(Izquierda)
         merge(Derecha)
-
         i=0
         j=0
         k=0
@@ -30,6 +29,7 @@ def merge(v):
             k=k+1
     print("Mezclar ",v)
 
+    
 v = []
 n = int(input("Cuantos valores deseas en la lista: "))
 for i in range(n):
